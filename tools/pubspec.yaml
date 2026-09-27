@@ -2,7 +2,7 @@ name: lsr_library_tools
 description: Import, normalise, validate, build and publish-check tooling for the Local Speed Reading public-domain library.
 version: 0.1.0
 publish_to: none
-repository: https://github.com/arkanmgerges/local-speed-reading-library
+repository: https://github.com/arkanmgerges/speed-reading-library
 
 environment:
   sdk: ^3.13.0

@@ -4,7 +4,7 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 
 const String userAgent =
-    'lsr-library-tools/0.1 (+https://github.com/arkanmgerges/local-speed-reading-library)';
+    'lsr-library-tools/0.1 (+https://github.com/arkanmgerges/speed-reading-library)';
 
 const Duration fetchTimeout = Duration(seconds: 60);
 

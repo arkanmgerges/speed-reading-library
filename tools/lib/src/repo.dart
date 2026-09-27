@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:path/path.dart' as p;
 
-/// Locations inside a checkout of local-speed-reading-library.
+/// Locations inside a checkout of speed-reading-library.
 class LibraryRepo {
   LibraryRepo(this.root);
 
@@ -54,7 +54,7 @@ class LibraryRepo {
       final Directory parent = dir.parent;
       if (parent.path == dir.path) {
         throw StateError(
-            'Not inside local-speed-reading-library (no schemas/ found above ${Directory.current.path}).');
+            'Not inside speed-reading-library (no schemas/ found above ${Directory.current.path}).');
       }
       dir = parent;
     }

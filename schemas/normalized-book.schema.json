@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/normalized-book.schema.json",
+  "$id": "https://github.com/arkanmgerges/speed-reading-library/schemas/normalized-book.schema.json",
   "title": "Normalized book",
   "description": "The canonical text of one edition as the app downloads it (gzip-compressed): plain Unicode paragraphs grouped in ordered chapters, plus provenance and rights. No markup, no styling, no tokenisation.",
   "type": "object",

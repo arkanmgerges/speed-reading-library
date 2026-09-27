@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/catalog.schema.json",
+  "$id": "https://github.com/arkanmgerges/speed-reading-library/schemas/catalog.schema.json",
   "title": "Catalog",
   "description": "Top-level index the app downloads first: one entry per language with a pointer to that language's manifest. Kept small; contains no book metadata or text.",
   "type": "object",

@@ -83,7 +83,7 @@ R2 custom domains return these headers as stored, and Cloudflare's cache honours
 
 ## 10. The apex website (separate, but on the same zone)
 
-The site repository is served by GitHub Pages at `arkanmgerges.github.io/local-speed-reading-site/`;
+The site repository is served by GitHub Pages at `arkanmgerges.github.io/speed-reading-site/`;
 `localspeedreading.com` has no DNS record yet. To move it to the apex:
 
 1. Add a `CNAME` file containing `localspeedreading.com` to the site repository.

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/book-metadata.schema.json",
+  "$id": "https://github.com/arkanmgerges/speed-reading-library/schemas/book-metadata.schema.json",
   "title": "Book metadata (one edition)",
   "description": "Hand-maintained record for one edition of one work: the work, the edition, where the text came from, its rights record, and the asset block written by the build tool.",
   "type": "object",

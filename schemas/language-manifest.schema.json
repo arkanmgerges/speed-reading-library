@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/language-manifest.schema.json",
+  "$id": "https://github.com/arkanmgerges/speed-reading-library/schemas/language-manifest.schema.json",
   "title": "Language manifest",
   "description": "Metadata for every published edition in one language. Generated; the app fetches it when the user opens that language. Contains no book text.",
   "type": "object",
